@@ -5,7 +5,6 @@ Greg Tronel, Jay Clark, Scott McCoid
 
 This is a basic plate reverb implementation in Python.
 To use the application, run the following from a command prompt / terminal:
-
 $ python reverb.py input.wav output.wav
 
 The application requires a mono input signal, and has a number of optional inputs:
